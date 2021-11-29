@@ -18,7 +18,7 @@ import AttachMoneyIcon from '@mui/icons-material/AttachMoney';
 import Chip from '@mui/material/Chip';
 import { format } from "date-fns";
 import { useFormik } from 'formik';
-import PriceSlotPicker from '../components/PriceSlotPicker';
+import PriceSlotPicker from './components/PriceSlotPicker';
 import { useDispatch,useSelector } from 'react-redux';
 
 
