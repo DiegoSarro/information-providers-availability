@@ -20,7 +20,7 @@ import { useFormik,FieldArray } from "formik";
 import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import IconButton from '@mui/material/IconButton';
 import AddIcon from '@mui/icons-material/Add';
-import TimeSlotPicker from './components/timeSlotPicker';
+import TimeSlotPicker from './components/TimeSlotPicker';
 import Chip from '@mui/material/Chip';
 import { format } from "date-fns";
 import { useDispatch,useSelector } from 'react-redux';
